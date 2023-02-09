@@ -21,7 +21,7 @@ The UI is very simple and intuitive, just click install and enjoy an activated W
 Found a new activation method? Just make a fork, edit the code and make a pull request, then I will review and maybe approve it.
 
 ## Workaround
-[ ] Windows Vista Starter
-[ ] Windows Vista N versions
+- [ ] Windows Vista Starter
+- [ ] Windows Vista N versions
 
 ###### Copyright (C) 2023 Vichingo455. Licensed under the AGPL license.
